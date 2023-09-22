@@ -1,3 +1,9 @@
+# What is the Project is about?
+
+It is a simple login one page design.  
+This Project is Just for fun!
+In the early stage of learning Html and Css i Created this Project (its not that great looking i know 🙃) just learned React and js, Just moved the Project in react. Will try to add some nice feature for Practice.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
